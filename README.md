@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning advanced React.js<br>🎯 Goals: Fullstack developer<br>👋 nickname: devzak</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning advanced React.js<br>🎯 Goals: Fullstack developer</p>
 
 ###
 
